@@ -43,7 +43,8 @@ Components & Tools Required to Build Wireless Arduino Bluetooth Robot
 
 
 
-![Circuit](https://hackster.imgix.net/uploads/attachments/626873/pic_g762ytLenJ.PNG)
+![Circuit](https://circuitdigest.com/sites/default/files/circuitdiagram_mic/G-Sensor-controlled-Robot-car-using-Arduino-circuit.png)
+
 
 
 
